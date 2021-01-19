@@ -13,6 +13,6 @@ Site institucional de uma faculdade fictícia feita totalmente em html usando ap
  
  
 <a href="https://projeto-unes.vercel.app/
-">See the project</a>
+" target="_blank">See the project</a>
 
 
