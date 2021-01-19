@@ -10,9 +10,7 @@ Site institucional de uma faculdade fictícia feita totalmente em html usando ap
 
  Institutional website of a fictitious college made entirely in html using only tables.
  
- 
- 
-<a href="https://projeto-unes.vercel.app/
-" target="_blank">See the project</a>
+
+ <a href="https://projeto-unes.vercel.app/" target="_blank">See the project</a> 
 
 
